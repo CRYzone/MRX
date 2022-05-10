@@ -15,9 +15,6 @@ $kk = $data3[1];
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
 echo ".::[ Generator NIK & KK ]::.\n\n";
 echo "Code By MRX\n";
-echo "MRX\n";
-echo "MRX\n";
-echo "MRX\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK : ".$kk."\n";
 ?>
